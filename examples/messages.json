@@ -1,0 +1,2318 @@
+[
+{
+"ts": 1677931800,
+"content": "[系统] 你已添加了阿木，现在可以开始聊天了。",
+"is_self": false,
+"msg_type": 10000
+},
+{
+"ts": 1677931860,
+"content": "你好呀，我是社团招新那天坐你旁边的小鱼",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1677931980,
+"content": "记得记得！你带了一只布袋猫",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1677931980,
+"content": "[表情: 偷笑]",
+"is_self": false,
+"msg_type": 47
+},
+{
+"ts": 1677932100,
+"content": "它叫土豆，是我的吉祥物",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1677932160,
+"content": "土豆好！下次社团活动一起去吗",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1678016100,
+"content": "等我一下",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1678030860,
+"content": "哈哈哈哈",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1678061580,
+"content": "[表情#a1b2c3d4]",
+"is_self": true,
+"msg_type": 47
+},
+{
+"ts": 1678085100,
+"content": "晚安",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1678156920,
+"content": "吃了吗",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1678332420,
+"content": "哈哈哈哈",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1678332960,
+"content": "[表情#a1b2c3d4]",
+"is_self": false,
+"msg_type": 47
+},
+{
+"ts": 1678428600,
+"content": "刚下课",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1678439460,
+"content": "[表情: 偷笑]",
+"is_self": true,
+"msg_type": 47
+},
+{
+"ts": 1678597080,
+"content": "好的",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1678719240,
+"content": "[表情: 偷笑]",
+"is_self": true,
+"msg_type": 47
+},
+{
+"ts": 1678937760,
+"content": "在干嘛",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1678962720,
+"content": "好的",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1678971900,
+"content": "[表情: 偷笑]",
+"is_self": false,
+"msg_type": 47
+},
+{
+"ts": 1678979040,
+"content": "好的",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1679048220,
+"content": "哈哈哈哈",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1679095800,
+"content": "我到山脚了，你呢",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1679096520,
+"content": "还有十分钟，地铁坐过站了",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1679108700,
+"content": "[图片]",
+"is_self": false,
+"msg_type": 3
+},
+{
+"ts": 1679108760,
+"content": "山顶的风真的好大",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1679108820,
+"content": "下次带外套，这次算我欠你一杯热可可",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1679146200,
+"content": "今天好开心，腿已经不是我的了",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1679146260,
+"content": "[引用 阿木: 今天好开心，腿已经不是我的了] ↳svrid:810 @2023-03-18 明天楼梯见",
+"is_self": true,
+"msg_type": 49
+},
+{
+"ts": 1679209260,
+"content": "哈哈哈哈",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1679274720,
+"content": "刚下课",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1679283420,
+"content": "[表情#a1b2c3d4]",
+"is_self": true,
+"msg_type": 47
+},
+{
+"ts": 1679293320,
+"content": "下雨了",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1679308800,
+"content": "下雨了",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1679381820,
+"content": "刚下课",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1679393220,
+"content": "早",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1679896380,
+"content": "刚下课",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1680323520,
+"content": "下雨了",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1680398640,
+"content": "晚安",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1680489600,
+"content": "刚下课",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1680524880,
+"content": "下雨了",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1680568500,
+"content": "晚安",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1680574860,
+"content": "[表情: 偷笑]",
+"is_self": true,
+"msg_type": 47
+},
+{
+"ts": 1680587700,
+"content": "在干嘛",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1680598920,
+"content": "晚安",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1680601020,
+"content": "等我一下",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1680602100,
+"content": "早",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1680604440,
+"content": "晚安",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1680605220,
+"content": "[表情: 偷笑]",
+"is_self": true,
+"msg_type": 47
+},
+{
+"ts": 1680622080,
+"content": "[表情#a1b2c3d4]",
+"is_self": true,
+"msg_type": 47
+},
+{
+"ts": 1680678780,
+"content": "等我一下",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1680680520,
+"content": "下雨了",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1680697140,
+"content": "早",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1680796380,
+"content": "好的",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1680836520,
+"content": "[表情#a1b2c3d4]",
+"is_self": false,
+"msg_type": 47
+},
+{
+"ts": 1680847320,
+"content": "在干嘛",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1680858540,
+"content": "早",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1680870960,
+"content": "哈哈哈哈",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1680880680,
+"content": "在干嘛",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1680926820,
+"content": "下雨了",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1681028820,
+"content": "晚安",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1681209600,
+"content": "等我一下",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1681273860,
+"content": "早",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1681300680,
+"content": "刚下课",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1681345680,
+"content": "在干嘛",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1681359360,
+"content": "晚安",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1681382640,
+"content": "在干嘛",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1681383780,
+"content": "刚下课",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1681390680,
+"content": "吃了吗",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1681481460,
+"content": "好的",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1681518000,
+"content": "在干嘛",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1681557420,
+"content": "今天好困",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1681604880,
+"content": "早",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1681609140,
+"content": "哈哈哈哈",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1681634640,
+"content": "哈哈哈哈",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1681644720,
+"content": "刚下课",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1681652160,
+"content": "刚下课",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1681737360,
+"content": "[表情#a1b2c3d4]",
+"is_self": false,
+"msg_type": 47
+},
+{
+"ts": 1681786200,
+"content": "吃了吗",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1681798560,
+"content": "下雨了",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1681829280,
+"content": "晚安",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1681868040,
+"content": "今天好困",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1681879320,
+"content": "晚安",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1681903380,
+"content": "等我一下",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1681965840,
+"content": "下雨了",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1681973700,
+"content": "[表情: 偷笑]",
+"is_self": false,
+"msg_type": 47
+},
+{
+"ts": 1681977360,
+"content": "刚下课",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1681979700,
+"content": "好的",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1681984500,
+"content": "好的",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1682082300,
+"content": "[表情#a1b2c3d4]",
+"is_self": true,
+"msg_type": 47
+},
+{
+"ts": 1682128320,
+"content": "吃了吗",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1682154300,
+"content": "[表情: 偷笑]",
+"is_self": false,
+"msg_type": 47
+},
+{
+"ts": 1682160480,
+"content": "好的",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1682163420,
+"content": "吃了吗",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1682222220,
+"content": "吃了吗",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1682321280,
+"content": "等我一下",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1682321940,
+"content": "等我一下",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1682336580,
+"content": "[表情#a1b2c3d4]",
+"is_self": true,
+"msg_type": 47
+},
+{
+"ts": 1682414160,
+"content": "下雨了",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1682517300,
+"content": "下雨了",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1682559240,
+"content": "今天好困",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1682911860,
+"content": "今天好困",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1683010740,
+"content": "[表情: 偷笑]",
+"is_self": false,
+"msg_type": 47
+},
+{
+"ts": 1683085260,
+"content": "早",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1683173460,
+"content": "早",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1683260700,
+"content": "好的",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1683278940,
+"content": "下雨了",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1683430140,
+"content": "吃了吗",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1683444660,
+"content": "下雨了",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1683551940,
+"content": "哈哈哈哈",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1683712800,
+"content": "哈哈哈哈",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1683777660,
+"content": "吃了吗",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1683873600,
+"content": "今天好困",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1683974520,
+"content": "刚下课",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1683988740,
+"content": "刚下课",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1684024680,
+"content": "早",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1684059840,
+"content": "早",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1684067280,
+"content": "吃了吗",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1684154760,
+"content": "在干嘛",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1684394580,
+"content": "吃了吗",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1684579200,
+"content": "你还有多久，电影开始二十分钟了",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1684579920,
+"content": "马上马上，组会拖堂了",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1684581300,
+"content": "我先回去了",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1684581360,
+"content": "别呀，我请你吃夜宵",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1684581600,
+"content": "每次都说马上，我真的有点累",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1684581660,
+"content": "对不起，是我没提前说",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1684581720,
+"content": "[系统] 你撤回了一条消息",
+"is_self": true,
+"msg_type": 10000
+},
+{
+"ts": 1684631400,
+"content": "昨天我语气不太好",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1684631520,
+"content": "是我不对，下次提前说",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1684631580,
+"content": "那这周末补看电影",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1684724940,
+"content": "好的",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1684739700,
+"content": "[表情#a1b2c3d4]",
+"is_self": false,
+"msg_type": 47
+},
+{
+"ts": 1684742940,
+"content": "在干嘛",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1684745760,
+"content": "等我一下",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1684757820,
+"content": "[表情: 偷笑]",
+"is_self": true,
+"msg_type": 47
+},
+{
+"ts": 1684837980,
+"content": "刚下课",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1684844460,
+"content": "哈哈哈哈",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1684850460,
+"content": "哈哈哈哈",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1684853520,
+"content": "等我一下",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1684937940,
+"content": "早",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1685068380,
+"content": "早",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1685084760,
+"content": "吃了吗",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1685149980,
+"content": "刚下课",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1685178120,
+"content": "等我一下",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1685239140,
+"content": "好的",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1685264700,
+"content": "哈哈哈哈",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1685267760,
+"content": "刚下课",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1685289480,
+"content": "[表情#a1b2c3d4]",
+"is_self": true,
+"msg_type": 47
+},
+{
+"ts": 1685619060,
+"content": "吃了吗",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1685681520,
+"content": "哈哈哈哈",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1685786040,
+"content": "吃了吗",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1685787900,
+"content": "[表情: 偷笑]",
+"is_self": false,
+"msg_type": 47
+},
+{
+"ts": 1685940960,
+"content": "下雨了",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1685962500,
+"content": "刚下课",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1686194040,
+"content": "[表情: 偷笑]",
+"is_self": true,
+"msg_type": 47
+},
+{
+"ts": 1686476820,
+"content": "下雨了",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1686498540,
+"content": "好的",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1686551160,
+"content": "在干嘛",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1686557040,
+"content": "下雨了",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1686570360,
+"content": "刚下课",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1686644820,
+"content": "等我一下",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1686670740,
+"content": "哈哈哈哈",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1686814200,
+"content": "[表情: 偷笑]",
+"is_self": true,
+"msg_type": 47
+},
+{
+"ts": 1686823260,
+"content": "[表情#a1b2c3d4]",
+"is_self": true,
+"msg_type": 47
+},
+{
+"ts": 1686987000,
+"content": "[表情#a1b2c3d4]",
+"is_self": true,
+"msg_type": 47
+},
+{
+"ts": 1687173720,
+"content": "在干嘛",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1687317660,
+"content": "好的",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1687657920,
+"content": "晚安",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1687664880,
+"content": "[表情: 偷笑]",
+"is_self": true,
+"msg_type": 47
+},
+{
+"ts": 1687788240,
+"content": "在干嘛",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1688198520,
+"content": "我拿到实习了！！！",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1688198580,
+"content": "太强了！请吃饭！",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1688198580,
+"content": "请！",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1688199720,
+"content": "[通话] 通话时长 12:03",
+"is_self": false,
+"msg_type": 50
+},
+{
+"ts": 1688271360,
+"content": "[表情: 偷笑]",
+"is_self": true,
+"msg_type": 47
+},
+{
+"ts": 1688344560,
+"content": "刚下课",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1688364000,
+"content": "[表情#a1b2c3d4]",
+"is_self": false,
+"msg_type": 47
+},
+{
+"ts": 1688375400,
+"content": "吃了吗",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1688396340,
+"content": "晚安",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1688398620,
+"content": "吃了吗",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1688473620,
+"content": "早",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1688527800,
+"content": "早",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1688543100,
+"content": "哈哈哈哈",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1688548980,
+"content": "好的",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1688713560,
+"content": "早",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1688722380,
+"content": "[表情: 偷笑]",
+"is_self": true,
+"msg_type": 47
+},
+{
+"ts": 1688738460,
+"content": "下雨了",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1688820480,
+"content": "好的",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1688881440,
+"content": "吃了吗",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1688981220,
+"content": "哈哈哈哈",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1689149820,
+"content": "吃了吗",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1689320160,
+"content": "好的",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1689326640,
+"content": "[表情: 偷笑]",
+"is_self": false,
+"msg_type": 47
+},
+{
+"ts": 1689401340,
+"content": "吃了吗",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1689403800,
+"content": "早",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1689474180,
+"content": "早",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1689483240,
+"content": "好的",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1689504300,
+"content": "下雨了",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1689557520,
+"content": "[表情#a1b2c3d4]",
+"is_self": true,
+"msg_type": 47
+},
+{
+"ts": 1689679560,
+"content": "晚安",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1689725700,
+"content": "好的",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1689748860,
+"content": "今天好困",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1689835680,
+"content": "[表情: 偷笑]",
+"is_self": false,
+"msg_type": 47
+},
+{
+"ts": 1689914760,
+"content": "等我一下",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1690116660,
+"content": "在干嘛",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1690262100,
+"content": "早",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1690377660,
+"content": "[表情: 偷笑]",
+"is_self": false,
+"msg_type": 47
+},
+{
+"ts": 1690429080,
+"content": "下雨了",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1690465680,
+"content": "等我一下",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1690854900,
+"content": "吃了吗",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1690867080,
+"content": "[表情: 偷笑]",
+"is_self": false,
+"msg_type": 47
+},
+{
+"ts": 1690881000,
+"content": "在干嘛",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1690885740,
+"content": "好的",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1690964220,
+"content": "吃了吗",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1690969980,
+"content": "下雨了",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1690991460,
+"content": "晚安",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1691032620,
+"content": "吃了吗",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1691045100,
+"content": "等我一下",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1691305500,
+"content": "下雨了",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1691319180,
+"content": "等我一下",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1691393100,
+"content": "早",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1691417040,
+"content": "吃了吗",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1691463060,
+"content": "在干嘛",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1691474940,
+"content": "[表情#a1b2c3d4]",
+"is_self": false,
+"msg_type": 47
+},
+{
+"ts": 1691559120,
+"content": "下雨了",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1691574180,
+"content": "哈哈哈哈",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1691577540,
+"content": "吃了吗",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1691584920,
+"content": "等我一下",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1691625960,
+"content": "等我一下",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1691637780,
+"content": "[表情#a1b2c3d4]",
+"is_self": true,
+"msg_type": 47
+},
+{
+"ts": 1691640600,
+"content": "[表情: 偷笑]",
+"is_self": false,
+"msg_type": 47
+},
+{
+"ts": 1691660580,
+"content": "早",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1691760540,
+"content": "吃了吗",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1691803200,
+"content": "飞机落地了，大理的云好低",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1691803260,
+"content": "我在洱海边等你，带了草帽",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1691917980,
+"content": "哈哈哈哈",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1691918520,
+"content": "刚下课",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1692021660,
+"content": "今晚的星星我会记很久",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1692066600,
+"content": "下次还来",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1692150480,
+"content": "早",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1692168840,
+"content": "等我一下",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1692176580,
+"content": "下雨了",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1692179760,
+"content": "好的",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1692236160,
+"content": "刚下课",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1692240900,
+"content": "早",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1692273840,
+"content": "等我一下",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1692335280,
+"content": "在干嘛",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1692358920,
+"content": "吃了吗",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1692365640,
+"content": "下雨了",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1692499980,
+"content": "哈哈哈哈",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1692519480,
+"content": "下雨了",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1692538860,
+"content": "刚下课",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1692578400,
+"content": "刚下课",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1692596220,
+"content": "晚安",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1692614940,
+"content": "哈哈哈哈",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1692618600,
+"content": "在干嘛",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1692630720,
+"content": "等我一下",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1692767160,
+"content": "在干嘛",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1692786660,
+"content": "刚下课",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1692870720,
+"content": "吃了吗",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1692872280,
+"content": "哈哈哈哈",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1692876060,
+"content": "晚安",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1692974100,
+"content": "吃了吗",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1693025820,
+"content": "[表情#a1b2c3d4]",
+"is_self": false,
+"msg_type": 47
+},
+{
+"ts": 1693032660,
+"content": "刚下课",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1693036020,
+"content": "等我一下",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1693036380,
+"content": "晚安",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1693038600,
+"content": "等我一下",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1693038900,
+"content": "下雨了",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1693045620,
+"content": "好的",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1693122660,
+"content": "[表情#a1b2c3d4]",
+"is_self": true,
+"msg_type": 47
+},
+{
+"ts": 1693134060,
+"content": "早",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1693229760,
+"content": "吃了吗",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1693712880,
+"content": "在干嘛",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1693744020,
+"content": "晚安",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1694144400,
+"content": "[表情#a1b2c3d4]",
+"is_self": false,
+"msg_type": 47
+},
+{
+"ts": 1694148360,
+"content": "在干嘛",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1694172360,
+"content": "[表情#a1b2c3d4]",
+"is_self": false,
+"msg_type": 47
+},
+{
+"ts": 1694437260,
+"content": "哈哈哈哈",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1694566860,
+"content": "吃了吗",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1694585160,
+"content": "[表情#a1b2c3d4]",
+"is_self": true,
+"msg_type": 47
+},
+{
+"ts": 1694597580,
+"content": "今天好困",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1694612700,
+"content": "等我一下",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1694658900,
+"content": "哈哈哈哈",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1694681580,
+"content": "今天好困",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1694684040,
+"content": "在干嘛",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1694778300,
+"content": "好的",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1694824980,
+"content": "[表情#a1b2c3d4]",
+"is_self": true,
+"msg_type": 47
+},
+{
+"ts": 1694944200,
+"content": "刚下课",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1695036060,
+"content": "今天好困",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1695279900,
+"content": "[表情#a1b2c3d4]",
+"is_self": false,
+"msg_type": 47
+},
+{
+"ts": 1695366480,
+"content": "晚安",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1695429000,
+"content": "吃了吗",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1695471420,
+"content": "下雨了",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1695478260,
+"content": "等我一下",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1695524280,
+"content": "吃了吗",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1695629880,
+"content": "早",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1695787980,
+"content": "刚下课",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1695888240,
+"content": "哈哈哈哈",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1696086600,
+"content": "家里的老猫走了",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1696086660,
+"content": "抱抱你，要不要打电话",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1696086720,
+"content": "嗯",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1696089660,
+"content": "[通话] 通话时长 47:21",
+"is_self": true,
+"msg_type": 50
+},
+{
+"ts": 1696768200,
+"content": "最近是不是很忙",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1696772400,
+"content": "有点，论文改不完",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1696772460,
+"content": "好吧",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1697691900,
+"content": "这阵子没怎么理你，对不起",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1697691960,
+"content": "没事，我也没主动找你",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1698154740,
+"content": "在干嘛",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1698214020,
+"content": "下雨了",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1698305640,
+"content": "下雨了",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1698335340,
+"content": "等我一下",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1698412140,
+"content": "下雨了",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1698822480,
+"content": "刚下课",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1698841140,
+"content": "在干嘛",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1698850500,
+"content": "[表情#a1b2c3d4]",
+"is_self": false,
+"msg_type": 47
+},
+{
+"ts": 1698883620,
+"content": "吃了吗",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1698887940,
+"content": "吃了吗",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1698931560,
+"content": "哈哈哈哈",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1699000800,
+"content": "[表情#a1b2c3d4]",
+"is_self": false,
+"msg_type": 47
+},
+{
+"ts": 1699025940,
+"content": "吃了吗",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1699061220,
+"content": "今天好困",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1699172880,
+"content": "[表情: 偷笑]",
+"is_self": false,
+"msg_type": 47
+},
+{
+"ts": 1699332840,
+"content": "早",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1699409700,
+"content": "哈哈哈哈",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1699444320,
+"content": "晚安",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1699541040,
+"content": "好的",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1699632000,
+"content": "小鱼生日快乐！",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1699632060,
+"content": "你居然卡点了",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1699701600,
+"content": "楼下取蛋糕",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1699701660,
+"content": "我下来了",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1699883400,
+"content": "[表情: 偷笑]",
+"is_self": true,
+"msg_type": 47
+},
+{
+"ts": 1699945500,
+"content": "在干嘛",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1699958640,
+"content": "哈哈哈哈",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1699964760,
+"content": "等我一下",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1700061540,
+"content": "[表情#a1b2c3d4]",
+"is_self": true,
+"msg_type": 47
+},
+{
+"ts": 1700062980,
+"content": "[表情#a1b2c3d4]",
+"is_self": true,
+"msg_type": 47
+},
+{
+"ts": 1700184780,
+"content": "[表情#a1b2c3d4]",
+"is_self": true,
+"msg_type": 47
+},
+{
+"ts": 1700193660,
+"content": "早",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1700369340,
+"content": "[表情: 偷笑]",
+"is_self": false,
+"msg_type": 47
+},
+{
+"ts": 1700374800,
+"content": "好的",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1700440800,
+"content": "[表情: 偷笑]",
+"is_self": true,
+"msg_type": 47
+},
+{
+"ts": 1700459100,
+"content": "好的",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1700474520,
+"content": "好的",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1700494800,
+"content": "[表情: 偷笑]",
+"is_self": false,
+"msg_type": 47
+},
+{
+"ts": 1700527560,
+"content": "哈哈哈哈",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1700560680,
+"content": "在干嘛",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1700827140,
+"content": "吃了吗",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1700875920,
+"content": "在干嘛",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1700887620,
+"content": "[表情#a1b2c3d4]",
+"is_self": true,
+"msg_type": 47
+},
+{
+"ts": 1701091620,
+"content": "[表情: 偷笑]",
+"is_self": false,
+"msg_type": 47
+},
+{
+"ts": 1701157920,
+"content": "吃了吗",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1701174960,
+"content": "在干嘛",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1701417000,
+"content": "吃了吗",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1701503580,
+"content": "[表情#a1b2c3d4]",
+"is_self": false,
+"msg_type": 47
+},
+{
+"ts": 1701596580,
+"content": "晚安",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1701688620,
+"content": "刚下课",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1701749100,
+"content": "吃了吗",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1701781800,
+"content": "等我一下",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1702048020,
+"content": "[表情: 偷笑]",
+"is_self": true,
+"msg_type": 47
+},
+{
+"ts": 1702096800,
+"content": "吃了吗",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1702301640,
+"content": "[表情: 偷笑]",
+"is_self": true,
+"msg_type": 47
+},
+{
+"ts": 1702428900,
+"content": "哈哈哈哈",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1702430580,
+"content": "[表情#a1b2c3d4]",
+"is_self": false,
+"msg_type": 47
+},
+{
+"ts": 1702439820,
+"content": "晚安",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1702476720,
+"content": "好的",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1702512480,
+"content": "好的",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1702653900,
+"content": "今天好困",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1702705620,
+"content": "早",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1702708200,
+"content": "早",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1702717200,
+"content": "在干嘛",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1702775760,
+"content": "吃了吗",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1702893840,
+"content": "在干嘛",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1702968180,
+"content": "[表情: 偷笑]",
+"is_self": true,
+"msg_type": 47
+},
+{
+"ts": 1702973580,
+"content": "下雨了",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1703087820,
+"content": "在干嘛",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1703149200,
+"content": "刚下课",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1703151360,
+"content": "等我一下",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1703398740,
+"content": "在干嘛",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1703492340,
+"content": "[表情#a1b2c3d4]",
+"is_self": false,
+"msg_type": 47
+},
+{
+"ts": 1703597940,
+"content": "下雨了",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1703641320,
+"content": "刚下课",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1703651820,
+"content": "吃了吗",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1704038340,
+"content": "明年也要一起爬山",
+"is_self": false,
+"msg_type": 1
+},
+{
+"ts": 1704038400,
+"content": "说好了，晚安",
+"is_self": true,
+"msg_type": 1
+},
+{
+"ts": 1704038460,
+"content": "晚安",
+"is_self": false,
+"msg_type": 1
+}
+]
